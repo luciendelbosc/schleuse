@@ -1,5 +1,5 @@
 
-dicke_size=0.3;
+dicke_size=1;
 
 module schleuse(size=65) {
     cube([size, size, dicke_size], center=true);
